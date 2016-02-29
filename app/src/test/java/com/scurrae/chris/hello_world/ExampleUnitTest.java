@@ -1,4 +1,4 @@
-package com.example.chris.zombiedestoyer;
+package com.scurrae.chris.hello_world;
 
 import org.junit.Test;
 
