@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Zombie Destroyer</string>
     <string name="action_settings">Settings</string>
+    <string name="attack">What do you do when you see zombies?</string>
+    <string name="choice1">Cower in fear.</string>
+    <string name="choice2">Run!!</string>
+    <string name="choice3">Pick up a chainsaw.</string>
+    <string name="answer1">You're eaten alive, like, what did you expect?</string>
+    <string name="answer2">You run, they're zombies so of course they outrun you. Guess the result.</string>
+    <string name="answer3">You are awesome. You who picked up the chainsaw receive unlimited perks in all physical stats and immortality.</string>
 </resources>
