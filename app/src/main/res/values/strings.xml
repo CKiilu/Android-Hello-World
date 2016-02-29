@@ -5,7 +5,7 @@
     <string name="choice1">Cower in fear.</string>
     <string name="choice2">Run!!</string>
     <string name="choice3">Pick up a chainsaw.</string>
-    <string name="answer1">You're eaten alive, like, what did you expect?</string>
-    <string name="answer2">You run, they're zombies so of course they outrun you. Guess the result.</string>
+    <string name="answer1">You are eaten alive, like, what did you expect?</string>
+    <string name="answer2">You run, they are zombies so of course they outrun you. Guess the result.</string>
     <string name="answer3">You are awesome. You who picked up the chainsaw receive unlimited perks in all physical stats and immortality.</string>
 </resources>
